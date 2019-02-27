@@ -3,7 +3,7 @@ entries:
   test-cloudant:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-27T15:08:35.44361+01:00
+    created: 2019-02-27T15:20:48.833825+01:00
     description: A Helm chart for Kubernetes
     digest: bf52e6d0ab4850488f1c8ccf21904ea486bd7fa6ac6a14e494042be43895af5e
     name: test-cloudant
@@ -13,7 +13,7 @@ entries:
   test-nodejs-cloudant-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-27T15:08:35.444503+01:00
+    created: 2019-02-27T15:20:48.83407+01:00
     description: A Helm chart for Kubernetes
     digest: 7c121733ceb762fb19aafaba0be9427f458aaa27ce1e374acbfa204fa7932c7e
     name: test-nodejs-cloudant-app
@@ -23,20 +23,11 @@ entries:
   test-nodejs-cloudant-app-v2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-27T15:08:35.445555+01:00
+    created: 2019-02-27T15:20:48.834329+01:00
     description: A Helm chart for Kubernetes
-    digest: 81bb6c68f7270a90d34f7bcc45a2f35dd232ffa106919b71f8a2deca7b1900ea
+    digest: 18cefe935e112d0655dff2c1f863dd2346c43bed0311b480d723059b191c67f1
     name: test-nodejs-cloudant-app-v2
     urls:
     - https://sophie-martin.github.io/helm-charts/test-nodejs-cloudant-app-v2-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: 2019-02-27T15:08:35.445235+01:00
-    description: A Helm chart for Kubernetes
-    digest: 6e8150b109b6fefc2de8534f1884b34c78caddff219c9812057ee59d88b1fc91
-    name: test-nodejs-cloudant-app-v2
-    urls:
-    - https://sophie-martin.github.io/helm-charts/test-nodejs-cloudant-app-v2-0.1.0.tgz
-    version: 0.1.0
-generated: 2019-02-27T15:08:35.441114+01:00
+generated: 2019-02-27T15:20:48.833332+01:00
