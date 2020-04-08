@@ -3,17 +3,17 @@ entries:
   core-dashboard:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.993272+02:00"
+    created: "2020-04-08T15:42:18.059276+02:00"
     description: A Helm chart for Kubernetes
-    digest: d3d31f10143a9cb4c58cfb905c2700fb8ca836e96ced17bfc429312ccd429eb7
+    digest: 34b4256346b34990723f41059239222f1aa59725527804af083391c6e7b37e7d
     name: core-dashboard
     urls:
-    - https://sophie-martin.github.io/helm-charts/core-dashboard-0.1.1.tgz
-    version: 0.1.1
+    - https://sophie-martin.github.io/helm-charts/core-dashboard-0.1.2.tgz
+    version: 0.1.2
   edgevideo-analysis:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.993552+02:00"
+    created: "2020-04-08T15:42:18.060455+02:00"
     description: A Helm chart for Kubernetes
     digest: 5762504cdeaff9b9d80cf5a064e19a6e17dfa92873079b30d29a44a0c4c9b3d6
     name: edgevideo-analysis
@@ -23,7 +23,7 @@ entries:
   fsacore:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.99496+02:00"
+    created: "2020-04-08T15:42:18.060721+02:00"
     description: A Helm chart for Kubernetes
     digest: a23ccecca4170ccf418147e3cd57e637923b3ee58e6f6472d47828d5bae5a36c
     name: fsacore
@@ -33,7 +33,7 @@ entries:
   fsaedgevideo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.9963+02:00"
+    created: "2020-04-08T15:42:18.062079+02:00"
     description: A Helm chart for Kubernetes
     digest: 607465af2f4966a8a82fc319476080f4d8c2726b13a7f742cb3d5462ba78cf45
     name: fsaedgevideo
@@ -43,7 +43,7 @@ entries:
   fsatelcodata:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.997426+02:00"
+    created: "2020-04-08T15:42:18.063315+02:00"
     description: A Helm chart for Kubernetes
     digest: 66dd9a8a211c5f4aeb1cf6e1b614355459114cd4e6511cc2ea4ef50cf59d7312
     name: fsatelcodata
@@ -53,7 +53,7 @@ entries:
   test-cloudant:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.998565+02:00"
+    created: "2020-04-08T15:42:18.064605+02:00"
     description: A Helm chart for Kubernetes
     digest: bf52e6d0ab4850488f1c8ccf21904ea486bd7fa6ac6a14e494042be43895af5e
     name: test-cloudant
@@ -63,7 +63,7 @@ entries:
   test-nodejs-cloudant-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.999168+02:00"
+    created: "2020-04-08T15:42:18.065302+02:00"
     description: A Helm chart for Kubernetes
     digest: 7c121733ceb762fb19aafaba0be9427f458aaa27ce1e374acbfa204fa7932c7e
     name: test-nodejs-cloudant-app
@@ -73,7 +73,7 @@ entries:
   test-nodejs-cloudant-app-v1:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:03.999677+02:00"
+    created: "2020-04-08T15:42:18.067592+02:00"
     description: A Helm chart for test-nodejs-cloudant-app
     digest: 35c04fcdd737cc61a34445b61966438a884ce9664ab28035d6a880d0ab0fa5ee
     name: test-nodejs-cloudant-app-v1
@@ -83,7 +83,7 @@ entries:
   test-nodejs-cloudant-app-v2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:04.00155+02:00"
+    created: "2020-04-08T15:42:18.068763+02:00"
     description: A Helm chart for test-nodejs-cloudant-app with configmap and secrets
     digest: 4f5c022c6331fe5334098c2bf1f53a5422c72db3e58c22ce7994b566a474c4bf
     name: test-nodejs-cloudant-app-v2
@@ -93,11 +93,11 @@ entries:
   videostream:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T10:30:04.001814+02:00"
+    created: "2020-04-08T15:42:18.069992+02:00"
     description: A Helm chart for Kubernetes
     digest: e401cad190181f07bd2e375f3570d2819f73a59f33dba41f000a4412695e3e02
     name: videostream
     urls:
     - https://sophie-martin.github.io/helm-charts/videostream-0.1.1.tgz
     version: 0.1.1
-generated: "2020-04-08T10:30:03.991481+02:00"
+generated: "2020-04-08T15:42:18.057723+02:00"
