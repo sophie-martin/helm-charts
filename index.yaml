@@ -3,7 +3,7 @@ entries:
   core-dashboard:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.406398+02:00"
+    created: "2020-04-08T10:30:03.993272+02:00"
     description: A Helm chart for Kubernetes
     digest: d3d31f10143a9cb4c58cfb905c2700fb8ca836e96ced17bfc429312ccd429eb7
     name: core-dashboard
@@ -13,17 +13,17 @@ entries:
   edgevideo-analysis:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.407632+02:00"
+    created: "2020-04-08T10:30:03.993552+02:00"
     description: A Helm chart for Kubernetes
-    digest: 8787d35e2694707a0169b4af41ba14b5fcbdfb099a49731a1806910926e82c89
+    digest: 5762504cdeaff9b9d80cf5a064e19a6e17dfa92873079b30d29a44a0c4c9b3d6
     name: edgevideo-analysis
     urls:
-    - https://sophie-martin.github.io/helm-charts/edgevideo-analysis-0.1.1.tgz
-    version: 0.1.1
+    - https://sophie-martin.github.io/helm-charts/edgevideo-analysis-0.1.2.tgz
+    version: 0.1.2
   fsacore:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.407892+02:00"
+    created: "2020-04-08T10:30:03.99496+02:00"
     description: A Helm chart for Kubernetes
     digest: a23ccecca4170ccf418147e3cd57e637923b3ee58e6f6472d47828d5bae5a36c
     name: fsacore
@@ -33,7 +33,7 @@ entries:
   fsaedgevideo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.408713+02:00"
+    created: "2020-04-08T10:30:03.9963+02:00"
     description: A Helm chart for Kubernetes
     digest: 607465af2f4966a8a82fc319476080f4d8c2726b13a7f742cb3d5462ba78cf45
     name: fsaedgevideo
@@ -43,7 +43,7 @@ entries:
   fsatelcodata:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.409485+02:00"
+    created: "2020-04-08T10:30:03.997426+02:00"
     description: A Helm chart for Kubernetes
     digest: 66dd9a8a211c5f4aeb1cf6e1b614355459114cd4e6511cc2ea4ef50cf59d7312
     name: fsatelcodata
@@ -53,7 +53,7 @@ entries:
   test-cloudant:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.410243+02:00"
+    created: "2020-04-08T10:30:03.998565+02:00"
     description: A Helm chart for Kubernetes
     digest: bf52e6d0ab4850488f1c8ccf21904ea486bd7fa6ac6a14e494042be43895af5e
     name: test-cloudant
@@ -63,7 +63,7 @@ entries:
   test-nodejs-cloudant-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.410792+02:00"
+    created: "2020-04-08T10:30:03.999168+02:00"
     description: A Helm chart for Kubernetes
     digest: 7c121733ceb762fb19aafaba0be9427f458aaa27ce1e374acbfa204fa7932c7e
     name: test-nodejs-cloudant-app
@@ -73,7 +73,7 @@ entries:
   test-nodejs-cloudant-app-v1:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.411321+02:00"
+    created: "2020-04-08T10:30:03.999677+02:00"
     description: A Helm chart for test-nodejs-cloudant-app
     digest: 35c04fcdd737cc61a34445b61966438a884ce9664ab28035d6a880d0ab0fa5ee
     name: test-nodejs-cloudant-app-v1
@@ -83,7 +83,7 @@ entries:
   test-nodejs-cloudant-app-v2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.412124+02:00"
+    created: "2020-04-08T10:30:04.00155+02:00"
     description: A Helm chart for test-nodejs-cloudant-app with configmap and secrets
     digest: 4f5c022c6331fe5334098c2bf1f53a5422c72db3e58c22ce7994b566a474c4bf
     name: test-nodejs-cloudant-app-v2
@@ -93,11 +93,11 @@ entries:
   videostream:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-08T09:28:13.412954+02:00"
+    created: "2020-04-08T10:30:04.001814+02:00"
     description: A Helm chart for Kubernetes
-    digest: 3bdf35595c476076f1ba60ede72a27d0b733cd3f567441d77029a49c5074fa70
+    digest: e401cad190181f07bd2e375f3570d2819f73a59f33dba41f000a4412695e3e02
     name: videostream
     urls:
-    - https://sophie-martin.github.io/helm-charts/videostream-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-04-08T09:28:13.400544+02:00"
+    - https://sophie-martin.github.io/helm-charts/videostream-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-04-08T10:30:03.991481+02:00"
